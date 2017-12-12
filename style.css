@@ -3,6 +3,9 @@ h1 {
    font-family: 'Indie Flower', cursive;
 }
 
+#myname {
+	color: lightpink;
+}
 h1 {
 	font-family: 'Shadows Into Light', cursive;
 }
@@ -17,3 +20,7 @@ p {
 body {
   background-color: lightblue;
 }
+
+
+
+
