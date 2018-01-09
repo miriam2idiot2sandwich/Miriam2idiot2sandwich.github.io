@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+  font-family: 'Indie Flower', cursive;
+}
+
+button, input {
+	font-size: 200%
+}
+
+button{
+font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+	transition: color is;
+}
+h1:hover {
+color: green;
+}
+
+h1:active {
+color: darkblue;
+}
+
+a:hover {
+color: green
