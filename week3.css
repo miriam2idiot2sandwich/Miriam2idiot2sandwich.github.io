@@ -24,3 +24,20 @@ color: darkblue;
 
 a:hover {
 color: green
+}
+.container {
+	max-width: 900px;
+	margin: auto;
+}
+table{
+	background: white;
+}
+td{
+	background: lightgreen;
+}
+td:hover {
+	color: white
+}
+p {
+  text-align: center;
+}
