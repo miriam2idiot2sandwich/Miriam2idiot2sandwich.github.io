@@ -3,6 +3,7 @@ h1, h2, h3, p, a, li {
 }
 
 h1 {
+font-family: 'Indie Flower', cursive;
 
 }
 
@@ -11,13 +12,18 @@ li, p.clickable {
 }
 
 li .not-selected {
-    
+   
 }
 
 li .selected {
-    
+	text-decoration: underline;
+    color: pink;
 }
 
 li .correct {
-    
+    color: darkgreen;
+}
+
+li .incorrect {
+	color: darkred;
 }
