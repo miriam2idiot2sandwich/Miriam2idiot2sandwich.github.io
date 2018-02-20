@@ -1,10 +1,17 @@
 h1, h2, h3, p, a, li {
-    font-family: sans-serif;
+	color: lightblue;
+   font-family: 'Nanum Brush Script', cursive;
 }
 
 h1 {
-font-family: 'Indie Flower', cursive;
+font-family: 'Nanum Brush Script', cursive;
 
+}
+
+.app {
+	width: 70%;
+	max-width:800px;
+	margin: auto;
 }
 
 li, p.clickable {
@@ -26,4 +33,5 @@ li .correct {
 
 li .incorrect {
 	color: darkred;
+	font-family: 'Nanum Brush Script', cursive;
 }
